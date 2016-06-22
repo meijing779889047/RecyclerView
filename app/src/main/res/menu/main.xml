@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/listview"
+        android:checkable="true"
+        android:orderInCategory="100"
+        android:title="listview"
+        android:showAsAction="never" />
+    <item
+        android:id="@+id/hor_gridview"
+        android:checkable="true"
+        android:orderInCategory="100"
+        android:title="hor_gridview"
+        android:showAsAction="never"/>
+    <item
+        android:id="@+id/ver_gridview"
+        android:checkable="true"
+        android:orderInCategory="100"
+        android:title="ver_gridview"
+        android:showAsAction="never" />
+
+    <item
+        android:id="@+id/stagger"
+        android:orderInCategory="90"
+        android:title="stagger"
+        android:showAsAction="never" />
+
+</menu>
